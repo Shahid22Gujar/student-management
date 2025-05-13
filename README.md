@@ -12,7 +12,7 @@
 - `cd root_project_dir`
 - `npm install .`
 - `npm run dev`
-- Open browser and navigate to `http://localhost:3000`
+- Open browser and navigate to `http://localhost:5344`
 
 # Command to deploy project on Netlify
 - `npm install netlify-cli -g`
